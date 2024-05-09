@@ -709,6 +709,10 @@ video {
 }
 
 .w-8 {
+  width: 6rem
+}
+
+.w-9 {
   width: 9.75rem
 }
 
