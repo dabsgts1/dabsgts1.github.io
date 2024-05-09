@@ -229,7 +229,7 @@ video {
 
 img,
 video {
-  width: 100px;
+  width: 150px;
   height: auto
 }
 
@@ -709,7 +709,7 @@ video {
 }
 
 .w-8 {
-  width: 6.35rem
+  width: 9.75rem
 }
 
 .w-full {
@@ -871,7 +871,7 @@ video {
 }
 
 .border {
-  border-width: 1px
+  border-width: 3px
 }
 
 .border-2 {
@@ -1921,8 +1921,8 @@ video {
   }
 
   .lg\:py-24 {
-    padding-top: 5rem;
-    padding-bottom: 5rem
+    padding-top: 3rem;
+    padding-bottom: 3rem
   }
 
   .lg\:text-4xl {
